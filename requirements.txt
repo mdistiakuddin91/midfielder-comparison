@@ -1,0 +1,7 @@
+# Tested with Python 3.14 and the versions below.
+statsbombpy>=1.22.0
+mplsoccer>=1.8.1
+matplotlib>=3.11.2,<4
+pandas>=2.3.3,<3
+numpy>=2.5.3,<3
+scipy>=1.16.3,<2
